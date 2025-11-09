@@ -1,4 +1,4 @@
-ESP32 DHT11 Web Portal (Open AP, no login)
+### ESP32 DHT11 Web Portal (Open AP, no login)
 
 
 What this does
@@ -36,4 +36,4 @@ How to use
 4. Observe live temperature and humidity readings.
 
 
-*/
+
